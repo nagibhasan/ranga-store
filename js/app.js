@@ -119,5 +119,3 @@ document.getElementById("search-btn").addEventListener("click", function () {
    );
    showProducts(searchedProduct);
  });
-
-
